@@ -1,6 +1,4 @@
-package com.wzp.ds.Array;
-
-import java.io.*;
+package com.wzp.ds.structure.Array;
 
 /**
  * @创建人 wangzhipeng
